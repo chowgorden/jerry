@@ -1,0 +1,14 @@
+body { background-color: Ivory;}
+.disclaimer {
+	border-style: dotted;
+	border-color: red;
+	background-color: yellow; }
+
+.profile { border-radius: 50% 
+	}
+
+hr { border-style: none;
+	border-color: Darkgrey;
+	border-width: 5px;
+	border-top-style: dotted;
+	width: 5%; }
